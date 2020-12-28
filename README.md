@@ -49,13 +49,13 @@ FPGA_Oscilloscope/
 - **PCB Layout Software**: [EAGLE](https://www.autodesk.com/products/eagle/overview?plc=F360&term=1-YEAR&support=ADVANCED&quantity=1)
 
 ## Framework and Layout
-![framework](https://github.com/Hong-Ming/FPGA_Oscilloscope/blob/main/Images/project.png)
+![project picture](https://github.com/Hong-Ming/FPGA_Oscilloscope/blob/main/Images/project.png)
 **Framework**:
 ![framework](https://github.com/Hong-Ming/FPGA_Oscilloscope/blob/main/Images/framework.png)
 **Input Rectifier Circuit Schematic**:
-![framework](https://github.com/Hong-Ming/FPGA_Oscilloscope/blob/main/Images/input_schematic.png)
+![input circuit schematic](https://github.com/Hong-Ming/FPGA_Oscilloscope/blob/main/Images/input_schematic.png)
 **Input Rectifier Circuit Layout**:
-![framework](https://github.com/Hong-Ming/FPGA_Oscilloscope/blob/main/Images/input_layout.png)
+![input circuit layout](https://github.com/Hong-Ming/FPGA_Oscilloscope/blob/main/Images/input_layout.png)
 
 ## Contributor
 - [Hong-Ming Chiu](https://hong-ming.github.io/)
