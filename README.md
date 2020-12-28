@@ -1,11 +1,11 @@
 # FPGA Oscilloscope
 
 ## Table of Contents
-* [Intorduction](#intorduction)
-* [Directory Tree](#directory-tree)
-* [Project Info](#project-info)
-* [Framework and Layout](#framework-and-layout)
-* [Contributor](#contributor)
+- [Intorduction](#intorduction)
+- [Directory Tree](#directory-tree)
+- [Project Info](#project-info)
+- [Framework and Layout](#framework-and-layout)
+- [Contributor](#contributor)
 
 ## Intorduction
 We built a simple oscilloscope using Nexys 4 DDR board and PCB. First, the PCB transforms the input voltage signal into a signal with an acceptable voltage range for the FPGA board input, as well as generating knobs' control signal. The FPGA board then takes the processed signal and control signal to display waveforms, change voltage scale, adjust sweep time, etc. This work is the final project of the Digital Laboratory class at NCTU. [ [Demo Video](https://www.youtube.com/watch?v=sgIzcKYEROs&feature=youtu.be&ab_channel=AlexLi) ]
