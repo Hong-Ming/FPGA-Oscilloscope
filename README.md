@@ -50,11 +50,11 @@ FPGA_Oscilloscope/
 
 ## Framework and Layout
 ![framework](https://github.com/Hong-Ming/FPGA_Oscilloscope/blob/main/Images/project.png)
-Framework:
+**Framework**:
 ![framework](https://github.com/Hong-Ming/FPGA_Oscilloscope/blob/main/Images/framework.png)
-Input Rectifier Circuit Schematic
+**Input Rectifier Circuit Schematic**:
 ![framework](https://github.com/Hong-Ming/FPGA_Oscilloscope/blob/main/Images/input_schematic.png)
-Input Rectifier Circuit Layout
+**Input Rectifier Circuit Layout**:
 ![framework](https://github.com/Hong-Ming/FPGA_Oscilloscope/blob/main/Images/input_layout.png)
 
 ## Contributor
