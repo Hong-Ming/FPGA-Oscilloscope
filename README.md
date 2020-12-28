@@ -3,11 +3,12 @@
 ## Table of Contents
 * [Intorduction](#intorduction)
 * [Directory Tree](#directory-tree)
+* [Project Info](#project-info)
 * [Framework and Layout](#framework-and-layout)
 * [Contributor](#contributor)
 
 ## Intorduction
-We built a simple oscilloscope using Nexys 4 DDR board and PCB. First, the PCB transforms the input voltage signal into a signal with an acceptable voltage range for the FPGA board input, as well as generating knobs' control signal. The FPGA board then takes the processed signal and control signal to display waveforms, change voltage scale, adjust sweep time, etc. This work is the final project of the Digital Laboratory class at NCTU.
+We built a simple oscilloscope using Nexys 4 DDR board and PCB. First, the PCB transforms the input voltage signal into a signal with an acceptable voltage range for the FPGA board input, as well as generating knobs' control signal. The FPGA board then takes the processed signal and control signal to display waveforms, change voltage scale, adjust sweep time, etc. This work is the final project of the Digital Laboratory class at NCTU. [ [Demo Video](https://www.youtube.com/watch?v=sgIzcKYEROs&feature=youtu.be&ab_channel=AlexLi) ]
 
 ## Directory Tree
 <pre>
@@ -41,6 +42,11 @@ FPGA_Oscilloscope/
    ├─ Oscilloscope.sch ............. PCB schematic file
    └─ Gerber/ ...................... Directory contains layout files
 </pre>
+
+## Project Info
+- **HDL**: [SystemVerilog](https://en.wikipedia.org/wiki/SystemVerilog)
+- **FPGA Board**: [Nexys 4 DDR](https://reference.digilentinc.com/reference/programmable-logic/nexys-4-ddr/start)
+- **PCB Layout Software**: [EAGLE](https://www.autodesk.com/products/eagle/overview?plc=F360&term=1-YEAR&support=ADVANCED&quantity=1)
 
 ## Framework and Layout
 ![framework](https://github.com/Hong-Ming/FPGA_Oscilloscope/blob/main/Images/project.png)
