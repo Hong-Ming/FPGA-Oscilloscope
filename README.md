@@ -44,7 +44,7 @@ FPGA_Oscilloscope/
 </pre>
 
 ## Framework and Layout
-
+![framework](https://github.com/Hong-Ming/FPGA_Oscilloscope/blob/main/Images/framework.png)
 
 ## Contributor
 - [Hong-Ming Chiu](https://hong-ming.github.io/)
