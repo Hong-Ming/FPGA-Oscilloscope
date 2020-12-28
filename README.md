@@ -4,7 +4,6 @@
 * [Intorduction](#intorduction)
 * [Directory Tree](#directory-tree)
 * [Framework and Layout](#framework-and-layout)
-* [Reference](#reference)
 * [Contributor](#contributor)
 
 ## Intorduction
